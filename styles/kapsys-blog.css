@@ -1,0 +1,44 @@
+.blog-section {
+  padding: 15.2rem 0 7.2rem;
+}
+
+.blog-background {
+  position: absolute;
+  width: 100%;
+  height: 48.8rem;
+  top: 0;
+  left: 0;
+  z-index: -2;
+}
+
+.blog__getInTouch {
+  padding: 4em 0 5em;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+
+@media only screen and (max-width: 1168px) and (min-width: 768px) {
+  .blog-section {
+    padding: 12.2rem 0 6.8rem;
+  }
+
+  .blog__getInTouch {
+    padding: 8rem 0 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .blog-section {
+    padding: 10.2rem 0 1.6rem;
+  }
+
+  .blog-background {
+    height: 42.2rem;
+  }
+
+  .blog__getInTouch {
+    padding: 5.4rem 0 0;
+  }
+}

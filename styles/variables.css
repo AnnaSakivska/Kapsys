@@ -1,0 +1,16 @@
+html {
+  --darkblue: #0072d3;
+  --turquoise: #00d8f0;
+
+  --main-black: #212124;
+  --black-background: #161518;
+  --grey-1: #898989;
+  --grey-2: #818186;
+  --grey-3: #414042;
+  --shamrock: #5FBF10;
+}
+
+body {
+  --Ubuntu: 'Ubuntu', sans-serif;
+  --OpenSans: 'Open Sans', sans-serif;
+}

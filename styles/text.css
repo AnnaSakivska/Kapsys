@@ -1,0 +1,181 @@
+/* Hedaings */
+.head-title-72 {
+  font-family: var(--Ubuntu);
+  font-size: 7.2rem;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.head-title-48 {
+  font-family: var(--Ubuntu);
+  font-size: 4.8rem;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+/* Paragraph */
+.opensans-24 {
+  font-family: var(--OpenSans);
+  font-size: 2.4rem;
+  font-weight: 400;
+}
+
+.opensans-26 {
+  font-family: var(--OpenSans);
+  font-size: 2.6rem;
+  font-weight: 400;
+}
+
+.opensans-28 {
+  font-family: var(--OpenSans);
+  font-size: 2.8rem;
+  font-weight: 400;
+}
+
+.ubuntu-16 {
+  font-family: var(--Ubuntu);
+  font-size: 1.6rem;
+}
+
+.ubuntu-20 {
+  font-family: var(--Ubuntu);
+  font-size: 2rem;
+}
+
+.ubuntu-24 {
+  font-family: var(--Ubuntu);
+  font-size: 2.4rem;
+}
+
+.ubuntu-28 {
+  font-family: var(--Ubuntu);
+  font-size: 2.8rem;
+}
+
+.ubuntu-40 {
+  font-family: var(--Ubuntu);
+  font-size: 4rem;
+}
+
+.ubuntu-48 {
+  font-family: var(--Ubuntu);
+  font-size: 4.8rem;
+}
+
+.opansans-26 {
+  font-family: var(--OpenSans);
+  font-size: 2.6rem;
+}
+
+.opansans-24 {
+  font-family: var(--OpenSans);
+  font-size: 2.4rem;
+}
+
+.opansans-20 {
+  font-family: var(--OpenSans);
+  font-size: 2rem;
+}
+
+.opansans-18 {
+  font-family: var(--OpenSans);
+  font-size: 1.8rem;
+}
+
+.opansans-16 {
+  font-family: var(--OpenSans);
+  font-size: 1.6rem;
+}
+
+.opansans-12 {
+  font-family: var(--OpenSans);
+  font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .ubuntu-40 {
+    font-family: var(--Ubuntu);
+    font-size: 2.4rem;
+  }
+}
+
+/* Text style */
+.white-text {
+  color: #ffffff;
+}
+
+.grey-text-1 {
+  color: var(--grey-1);
+}
+
+.grey-text-2 {
+  color: var(--grey-2);
+}
+
+.turquoise-text {
+  color: var(--turquoise);
+}
+
+.darkblue-text {
+  color: var(--darkblue);
+}
+
+.thin-text {
+  font-weight: 300;
+}
+
+.semibold-text {
+  font-weight: 500;
+}
+
+.bold-text {
+  font-weight: 700;
+}
+
+.extrabold-text {
+  font-weight: 800;
+}
+
+.extremelybold-text {
+  font-weight: 900;
+}
+
+.line-height-80 {
+  line-height: 8rem;
+}
+
+.line-height-68 {
+  line-height: 6.8rem;
+}
+
+.line-height-60 {
+  line-height: 6rem;
+}
+
+.line-height-44 {
+  line-height: 4.4rem;
+}
+
+.line-height-34 {
+  line-height: 3.4rem;
+}
+
+.line-height-30 {
+  line-height: 3rem;
+}
+
+.line-height-28 {
+  line-height: 2.8rem;
+}
+
+.line-height-26 {
+  line-height: 2.6rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.letter-spacing {
+  letter-spacing: 1.5px;
+}
